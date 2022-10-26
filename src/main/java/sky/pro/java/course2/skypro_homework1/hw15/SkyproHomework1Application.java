@@ -1,4 +1,4 @@
-package sky.pro.java.course2.skypro_homework1;
+package sky.pro.java.course2.skypro_homework1.hw15;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
